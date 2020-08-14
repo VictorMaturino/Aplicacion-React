@@ -1,0 +1,14 @@
+{
+    "name": "ejemplo/proyecto",
+    "description": "Aplicacion react native",
+    "authors": [
+        {
+            "name": "VictorMaturino",
+            "email": "vic.matusan.56@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/orm-pack": "^1.0",
+        "nelmio/cors-bundle": "^2.0"
+    }
+}
